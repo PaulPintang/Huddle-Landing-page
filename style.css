@@ -36,7 +36,7 @@ input:focus {
 .container {
   max-width: 1170px;
   margin: auto;
-  padding: 0 30px;
+  padding: 0 35px;
 }
 .flex {
   display: flex;
@@ -374,6 +374,9 @@ input:focus {
   }
 }
 @media (max-width: 375px) {
+  .container {
+    padding: 0 20px;
+  }
   .header .btn {
     /* width: 100%; */
     padding: 8px 20px;
