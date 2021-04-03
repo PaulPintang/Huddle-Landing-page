@@ -376,7 +376,7 @@ input:focus {
 @media (max-width: 375px) {
   .header .btn {
     /* width: 100%; */
-    padding: 8px 25px;
+    padding: 8px 20px;
   }
   .btn {
     /* width: 100%; */
